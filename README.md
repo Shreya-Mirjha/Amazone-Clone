@@ -1,1 +1,1 @@
-# Gits
+# Amazone Clone
